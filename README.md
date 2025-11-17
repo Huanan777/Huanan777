@@ -1,9 +1,9 @@
 ## 🧠 專長
-- 📊 統計（Statistics) \ 
+- 📊 統計（Statistics) 
 - 💻 程式（Python / R / SQL / JAVA / KNIME）
 
 ## 🎯 興趣
-- 🏐 打排球 \  
+- 🏐 打排球 
 - 🧩 拼拼圖  
 
 ## 🎓 經歷
